@@ -1,9 +1,9 @@
-<h4><b>
+<h1><b>
 <center>
 Hi there 👋 
 I am Sparsh Wabhale, Welcome to my Repository
 </center>
-</h4></b>
+</h1></b>
 
 <div id="header" align="center">
   <img src="https://speed.cy/wp-content/uploads/2022/08/web-developmen-seo.gif" width="500" height ="300"/>
